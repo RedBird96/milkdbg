@@ -1,0 +1,2 @@
+[workspace]
+members = ["milk-pe-parser", "milkdbg"]
